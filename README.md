@@ -46,5 +46,4 @@ src="https://img.shields.io/github/followers/LyaShket?logo=github&style=for-the-
 
 ### Badges
 
-[<a href="https://github.com/LyaShket" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyaShket&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>](https://www.codewars.com/users/LyaShket/badges/large
-)https://www.codewars.com/users/LyaShket/badges/large
+<a href="https://www.codewars.com/users/LyaShket" align="left"><img src="https://www.codewars.com/users/LyaShket/badges/large" alt="Codewars badge" /></a>
