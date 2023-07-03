@@ -1,4 +1,4 @@
-Hi 👋 My name is Dmytro Demianenko
+Hi 👋 My name is Dmytro
 ==================================
 
 Full Stack Developer
