@@ -4,7 +4,7 @@ Hi 👋 My name is Dmytro
 Full Stack Developer
 --------------------
 
-Experienced Front End Developer from Kyiv with a passion for web development. 2 years of expertise in creating robust applications. Skilled problem solver and collaborative team player. Ready to deliver exceptional results.
+Experienced Full Stack Developer from Kyiv with a passion for web development. 2 years of expertise in creating robust applications. Skilled problem solver and collaborative team player. Ready to deliver exceptional results.
 
 * 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [dmytro.demjanenko@gmail.com](mailto:dmytro.demjanenko@gmail.com)
