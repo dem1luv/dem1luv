@@ -13,6 +13,10 @@ Experienced Full Stack Developer from Kyiv with a passion for web development. 2
 <a href="https://www.github.com/LyaShket" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LyaShket?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ndqramjfy12tsnj7yicab10zp)
+</div>
+
 ### Skills
 
 
