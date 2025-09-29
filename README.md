@@ -29,9 +29,4 @@ Clean code, fast delivery, no bullshit.
 
 ---
 
-### 🥋 Proof of work
-[![Codewars](https://www.codewars.com/users/LyaShket/badges/large)](https://www.codewars.com/users/LyaShket)  
-
----
-
 > *Less talk, more code.*
